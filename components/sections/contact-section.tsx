@@ -22,14 +22,14 @@ const contactLinks = [
   {
     icon: Github,
     label: "GitHub",
-    value: "github.com/ishita",
-    href: "https://github.com",
+    value: "github.com/ishitaxgupta07",
+    href: "https://github.com/ishitaxgupta07",
   },
   {
     icon: Linkedin,
     label: "LinkedIn",
-    value: "linkedin.com/in/ishita",
-    href: "https://linkedin.com",
+    value: "linkedin.com/in/ishita-gupta-106442280",
+    href: "https://www.linkedin.com/in/ishita-gupta-106442280",
   },
 ]
 
